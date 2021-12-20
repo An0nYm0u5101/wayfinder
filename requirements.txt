@@ -6,3 +6,4 @@ nltk
 sklearn
 gitpython
 elasticsearch>=6.0.0,<7.0.0
+numpy>=1.22.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
